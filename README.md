@@ -1,6 +1,6 @@
 # Elections Scraper
 
-** Třetí projekt do Engeto Online Python Akademie. **
+**Třetí projekt do Engeto Online Python Akademie.**
 
 ## Popis projektu
 Tento skript slouží pro získání dat z oficiálních webovýc stránek [Voleb do Poslanecké sněmovny Parlamentu České republiky konaných ve dnech 20. 10. – 21. 10. 2017](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
